@@ -1,0 +1,43 @@
+- html home
+- html blog
+- html articulo
+- html listado tienda
+- html producto
+
+- comentarios
+
+- 404
+
+
+
+- pagina about
+- página suelta
+- cabecera listas cat, search, tag, author
+- pagina contacto
+- pagina eventos
+- iconos home
+- modulos home
+
+
+01 - subir contenidos de conferencias
+01 - subir contenidos de talleres
+01 - contenidos de testimonios
+xx - añadir apuntes de la ultima reunion
+01 - arreglar página del libro
+
+
+Para reunión
+- explicar lo de progmar tiempo
+- explicar lo de categoría
+- explicar distribución de contenido page tree
+
+
+fase 2
+xx - estilos del blog, foto de cabecera
+
+
+poner breadcrumbs
+
+<?php if ( function_exists('yoast_breadcrumb') ) {
+2	  $breadcrumbs = yoast_breadcrumb("","",false);
+3	} ?>
